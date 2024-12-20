@@ -1,0 +1,35 @@
+// atention if you dont understand this code it is ok 
+// this code was written in my own htmlx language 
+// learn more https://github.com/Leminix/HTMLx
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Leminix web</title>
+<link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    // create a container
+    <container id="container">
+
+        <div id="image_title">
+            <img id="user" src="https://avatars.githubusercontent.com/u/88610712?v=4">
+            <h2>Hi my name is Filip</h2>
+        </div>
+
+        <div id="about">
+            <h4>About me</h4>
+            <p>Hi again im a secondary school student and im really interested in programming.
+            Exactly in web development which includes frond-end and also back-end programming.<p>
+        </div>
+
+        <div id="border_container">
+        <h4>languages and frameworks i use</h4>
+        loop:9:<div class="border"><img src=""><h5></h5></div>
+        </div>
+        <a href="https://github.com/Leminix">Find me on GitHub</a>
+
+    </container>
+
+</body>
+</html>
